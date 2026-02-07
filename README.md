@@ -110,8 +110,8 @@
 
 <p align="center">
 <a href="https://anshuldhiman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel"></a>
-<a href="https://www.linkedin.com/in/anshuldhiman-dev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://thread/Anshuldhiman09"><img src="https://img.shields.io/badge/thread-black?style=for-the-badge&logo=thread"></a>
+<a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558721_kw.linkedin%20login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9303870"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.threads.com/@dhimananshul_09"><img src="https://img.shields.io/badge/thread-black?style=for-the-badge&logo=thread"></a>
 </p>
 
 ---
