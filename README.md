@@ -99,10 +99,10 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnshulExplorer/AnshulExplorer/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Anshuldhiman09/Anshuldhiman09/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -112,19 +112,19 @@
 <p align="center">
 
 <a href="https://anshuldhiman.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/vercel.png" height="45" style="margin: 15px;" />
+  <img src="https://img.icons8.com/fluency/96/vercel.png" height="45" style="margin: 20px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/anshuldhiman-dev" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/linkedin.png" height="45" style="margin: 15px;" />
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" height="45" style="margin: 20px;" />
 </a>
 
 <a href="https://www.instagram.com/dhimananshul_09/" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="45" style="margin: 15px;" />
+  <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="45" style="margin: 20px;" />
 </a>
 
 <a href="https://www.threads.com/@dhimananshul_09" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/100/000000/threads.png" height="45" style="margin: 15px;" />
+  <img src="https://img.icons8.com/ios-filled/100/000000/threads.png" height="45" style="margin: 20px;" />
 </a>
 
 </p>
