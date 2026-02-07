@@ -111,7 +111,7 @@
 <p align="center">
 <a href="https://anshuldhiman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel"></a>
 <a href="https://www.linkedin.com/in/anshuldhiman-dev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://x.com/anshuldhiman017"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
+<a href="https://thread/Anshuldhiman09"><img src="https://img.shields.io/badge/thread-black?style=for-the-badge&logo=thread"></a>
 </p>
 
 ---
