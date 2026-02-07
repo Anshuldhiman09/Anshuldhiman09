@@ -1,16 +1,125 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Anshul%20Dhiman&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<!--
-**Anshuldhiman09/Anshuldhiman09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anshul Dhiman</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://anshuldhiman.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+💻 Passionate Full Stack Developer  
+🌱 Currently learning **Advanced Backend & System Design**  
+⚡ Love building real-world applications  
+🎯 Goal: Become a highly skilled Software Engineer  
+
+🌐 Portfolio: https://anshuldhiman.vercel.app/
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
+---
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+
+---
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+---
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Full Stack Web Apps
+✔ Authentication  
+✔ REST APIs  
+✔ Responsive UI  
+
+### 🎮 Stone Paper Scissors Game
+✔ Interactive gameplay  
+✔ Score tracking  
+✔ Built using JS  
+
+### 📚 Book List REST API
+✔ CRUD operations  
+✔ Node.js & Express  
+
+### 🎬 Movie Watchlist App
+✔ Full Stack App  
+✔ Clean UI & Backend  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnshulExplorer&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulExplorer&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=AnshulExplorer&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnshulExplorer/AnshulExplorer/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+<a href="https://anshuldhiman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://www.linkedin.com/in/anshuldhiman-dev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://x.com/anshuldhiman017"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
+</p>
+
+---
+
+## 💭 Developer Quote
+
+> "Great developers are built by curiosity, consistency, and patience."
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
