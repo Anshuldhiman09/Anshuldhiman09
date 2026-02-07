@@ -24,38 +24,54 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)](https://www.java.com)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://www.python.org)
+
+[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)](https://isocpp.org)
 
 ---
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://react.dev)
+
+[![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
+
+[![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
 
 ---
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+[![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)](https://nodejs.org)
+
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
+
+[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://expressjs.com)
 
 ---
 
 ### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com)
+
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](https://www.mysql.com)
 
 ---
 
 ### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+[![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)](https://git-scm.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com)
+
+[![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)](https://www.postman.com)
+
+[![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 
 ---
 
@@ -96,7 +112,6 @@
   <img src="https://streak-stats.demolab.com?user=Anshuldhiman09&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ---
 
 ## 🐍 Contribution Snake
@@ -115,7 +130,7 @@
   <img src="https://img.icons8.com/color/96/vercel.png" height="50" />
 </a>
 
-<a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558715_kw.linkedin%20login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9303870" target="_blank">
+<a href="https://www.linkedin.com/in/anshul-dhiman-14a731353/" target="_blank">
   <img src="https://img.icons8.com/fluency/96/linkedin.png" height="50" />
 </a>
 
