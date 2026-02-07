@@ -21,61 +21,55 @@
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-
-[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)](https://www.java.com)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://www.python.org)
-
-[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)](https://isocpp.org)
+<p align="center">
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/></a>
+<a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/></a>
+</p>
 
 ---
 
 ### 🌐 Frontend
-
-[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://react.dev)
-
-[![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
-
-[![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
+<p align="center">
+<a href="https://react.dev"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/></a>
+<a href="https://nextjs.org"><img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js"/></a>
+<a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss"/></a>
+</p>
 
 ---
 
 ### ⚙️ Backend
-
-[![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)](https://nodejs.org)
-
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
-
-[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://expressjs.com)
+<p align="center">
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot"/></a>
+<a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/></a>
+</p>
 
 ---
 
 ### 🗄 Database
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com)
-
-[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](https://www.mysql.com)
+<p align="center">
+<a href="https://mongodb.com"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/></a>
+<a href="https://mysql.com"><img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/></a>
+</p>
 
 ---
 
 ### 🧰 Tools
-
-[![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)](https://git-scm.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com)
-
-[![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)](https://www.postman.com)
-
-[![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+<p align="center">
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+<a href="https://postman.com"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/></a>
+<a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🛒 Full Stack Web Apps
 ✔ Authentication  
@@ -85,7 +79,6 @@
 ### 🎮 Stone Paper Scissors Game
 ✔ Interactive gameplay  
 ✔ Score tracking  
-✔ Built using JS  
 
 ### 📚 Book List REST API
 ✔ CRUD operations  
@@ -97,16 +90,16 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://stats.vercel.app/api?username=Anshuldhiman09&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://stats.vercel.app/api/top-langs/?username=Anshuldhiman09&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshuldhiman09&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuldhiman09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anshuldhiman09&theme=tokyonight&hide_border=true" />
@@ -114,7 +107,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anshuldhiman09/Anshuldhiman09/output/github-contribution-grid-snake.svg" />
@@ -122,24 +115,24 @@
 
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
-<a href="https://anshuldhiman.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/color/96/vercel.png" height="50" />
+<a href="https://anshuldhiman.vercel.app/">
+<img src="https://img.icons8.com/color/96/vercel.png" height="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/anshul-dhiman-14a731353/" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/linkedin.png" height="50" />
+<a href="https://www.linkedin.com/in/anshul-dhiman-14a731353/">
+<img src="https://img.icons8.com/fluency/96/linkedin.png" height="50"/>
 </a>
 
-<a href="https://www.instagram.com/dhimananshul_09/" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="50" />
+<a href="https://www.instagram.com/dhimananshul_09/">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" height="50"/>
 </a>
 
-<a href="https://www.threads.com/@dhimananshul_09" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/100/000000/threads.png" height="50" />
+<a href="https://www.threads.com/@dhimananshul_09">
+<img src="https://img.icons8.com/ios-filled/100/000000/threads.png" height="50"/>
 </a>
 
 </p>
