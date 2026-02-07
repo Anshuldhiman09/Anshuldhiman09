@@ -84,8 +84,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshulExplorer&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulExplorer&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshuldhiman09&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshuldhiman09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -93,9 +93,8 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnshulExplorer&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Anshuldhiman09&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
@@ -112,23 +111,22 @@
 <p align="center">
 
 <a href="https://anshuldhiman.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/vercel.png" height="45" style="margin: 20px;" />
+  <img src="https://img.icons8.com/color/96/vercel.png" height="50" />
 </a>
 
-<a href="https://www.linkedin.com/in/anshuldhiman-dev" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/linkedin.png" height="45" style="margin: 20px;" />
+<a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558715_kw.linkedin%20login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9303870" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" height="50" />
 </a>
 
 <a href="https://www.instagram.com/dhimananshul_09/" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="45" style="margin: 20px;" />
+  <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="50" />
 </a>
 
 <a href="https://www.threads.com/@dhimananshul_09" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/100/000000/threads.png" height="45" style="margin: 20px;" />
+  <img src="https://img.icons8.com/ios-filled/100/000000/threads.png" height="50" />
 </a>
 
 </p>
-
 
 ---
 
