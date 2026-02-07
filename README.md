@@ -84,8 +84,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnshulExplorer&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulExplorer&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshulExplorer&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulExplorer&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -93,8 +93,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=AnshulExplorer&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AnshulExplorer&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -109,10 +110,29 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-<a href="https://anshuldhiman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel"></a>
-<a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558721_kw.linkedin%20login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9303870"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.threads.com/@dhimananshul_09"><img src="https://img.shields.io/badge/thread-black?style=for-the-badge&logo=thread"></a>
+
+<a href="https://anshuldhiman.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/anshuldhiman-dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://www.instagram.com/dhimananshul_09/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="https://www.threads.com/@dhimananshul_09" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" height="45" />
+</a>
+
+<a href="https://x.com/anshuldhiman017" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+</a>
+
 </p>
+
 
 ---
 
