@@ -112,23 +112,19 @@
 <p align="center">
 
 <a href="https://anshuldhiman.vercel.app/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="45" />
+  <img src="https://img.icons8.com/fluency/96/vercel.png" height="45" style="margin: 15px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/anshuldhiman-dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" height="45" style="margin: 15px;" />
 </a>
 
 <a href="https://www.instagram.com/dhimananshul_09/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="45" style="margin: 15px;" />
 </a>
 
 <a href="https://www.threads.com/@dhimananshul_09" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" height="45" />
-</a>
-
-<a href="https://x.com/anshuldhiman017" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  <img src="https://img.icons8.com/ios-filled/100/000000/threads.png" height="45" style="margin: 15px;" />
 </a>
 
 </p>
